@@ -21,4 +21,4 @@ Heart Disease Prediction: Logistic Regression vs Random Forest This project anal
 **- Feature Insights:** Significant features include age, cholesterol levels, and maximum heart rate.
 
 ### Technologies Used :
-- Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
+ - Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
