@@ -3,7 +3,7 @@ Heart Disease Prediction: Logistic Regression vs Random Forest This project anal
 
 ### The project involves :
 
-**1. Data Exploration:** Visualizations and insights from the dataset.
+**1. Data Exploration:**  Visualizations and insights from the dataset.
 
 **2. Preprocessing:** Feature scaling and train-test splitting.
 
@@ -21,4 +21,4 @@ Heart Disease Prediction: Logistic Regression vs Random Forest This project anal
 **- Feature Insights:** Significant features include age, cholesterol levels, and maximum heart rate.
 
 ### Technologies Used :
- - Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
+- Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
