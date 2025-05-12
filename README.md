@@ -3,22 +3,22 @@ Heart Disease Prediction: Logistic Regression vs Random Forest This project anal
 
 ### The project involves :
 
-Data Exploration: Visualizations and insights from the dataset.
+**1. Data Exploration:** Visualizations and insights from the dataset.
 
-Preprocessing: Feature scaling and train-test splitting.
+**2. Preprocessing:** Feature scaling and train-test splitting.
 
-Model Training: Implementation of Logistic Regression and Random Forest.
+**3. Model Training:** Implementation of Logistic Regression and Random Forest.
 
-Evaluation: Comparison of accuracy, confusion matrices, and classification reports.
+**4. Evaluation:** Comparison of accuracy, confusion matrices, and classification reports.
 
-Feature Importance: Identification of significant features influencing predictions.
+**5. Feature Importance:** Identification of significant features influencing predictions.
 
-Conclusion: A detailed performance comparison to determine the best model.
+**6. Conclusion:** A detailed performance comparison to determine the best model.
 
 ### Key Results :
-Accuracy: Random Forest achieved higher accuracy compared to Logistic Regression.
+**- Accuracy:** Random Forest achieved higher accuracy compared to Logistic Regression.
 
-Feature Insights: Significant features include age, cholesterol levels, and maximum heart rate.
+**- Feature Insights:** Significant features include age, cholesterol levels, and maximum heart rate.
 
 ### Technologies Used :
-Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
+- Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
