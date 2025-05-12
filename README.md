@@ -15,7 +15,7 @@ Heart Disease Prediction: Logistic Regression vs Random Forest This project anal
 
 **6. Conclusion:** A detailed performance comparison to determine the best model.
 
-### Key Results :
+### 📌 Key Results :
 **- Accuracy:** Random Forest achieved higher accuracy compared to Logistic Regression.
 
 **- Feature Insights:** Significant features include age, cholesterol levels, and maximum heart rate.
